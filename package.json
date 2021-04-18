@@ -48,7 +48,7 @@
   ],
   "types": "types/index.d.ts",
   "dependencies": {
-    "nan": "^2.13.2",
+    "nan": "2.13.2",
     "node-pre-gyp": "^0.15.0",
     "simple-get": "^3.0.3"
   },
